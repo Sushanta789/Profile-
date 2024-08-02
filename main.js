@@ -26,6 +26,6 @@ else{
   localStorage.setItem("users",JSON.stringify(user_records));
 }
 
-window.location.href="home.html";
+window.location.href="index.html";
 
 }
